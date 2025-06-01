@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sign Up - BackOffice Alpha Portal</title>
+  <title>Login - BackOffice Alpha Portal</title>
   <link rel="stylesheet" href="Site.css">
 </head>
 <body>
@@ -11,10 +11,10 @@
     <main>
 
 
-      <section id="signup">  
+      <section id="login">  
        <div class="card">  
         <div class="card-header">
-          <h1>Create Account</h1>
+          <h1>Login</h1>
         </div>
 
         <div class="card-body">
@@ -22,20 +22,14 @@
           <div>
             <button class="btn-external">
               <img src="" alt="">
-              <span>Sign Up with Google</span>
+              <span>Log in with Google</span>
             </button>
             </form>
             <div class="divider"><span>OR</span></div>
 
             <form metod="post" asp-controller="" asp-action="" novalidate>
-              <div class="form-group">
-                <label class="form-label">First Name</label>
-                <input class="form-input" type="text" placeholder="Enter first name">
-              </div>
-              <div class="form-group">
-                <label class="form-label">Last Name</label>
-                <input class="form-input" type="text" placeholder="Enter last name">
-              </div>
+              
+              
               <div class="form-group">
                 <label class="form-label">Email</label>
                 <input class="form-input" type="text" placeholder="Enter email">
@@ -44,23 +38,20 @@
                 <label class="form-label">Password</label>
                 <input class="form-input" type="text" placeholder="Enter password">
               </div>
-              <div class="form-group">
-                <label class="form-label">Confirm Password</label>
-                <input class="form-input" type="text" placeholder="Confirm password">
-              </div>
+              
               <div class="form-checkbox-group">
                 <label class="form-checkbox">
-                  <input id="terms-checkbox" class="form-checkbox-input" type="checkbox" />
+                  <input id="persistent-checkbox" class="form-checkbox-input" type="checkbox" />
                   <span class="form-checkbox-box"></span>
                 </label>
-                <label for="terms-checkbox" class="form-label">I Accept <a href="#">Terms and Conditions</a></label>
+                <label for="persistent-checkbox" class="form-label">Remember me</label>
               </div>
-              <button type="submit" class="btn">Create Account</button>
+              <button type="submit" class="btn">Log In</button>
 
               </form>
         </div>
 
-        <div class="card-footer">Already have an account? <a href="#">Log in</a></div>
+        <div class="card-footer">Don't have an account? <a href="#">Sign In</a></div>
       </div>
       </section>
     </main>
