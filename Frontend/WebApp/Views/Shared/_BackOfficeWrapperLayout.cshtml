@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebApp</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/quill@2.0.3/dist/quill.snow.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/quill@2.0.3/dist/quill.js"></script>
+
+    <script type="importmap">
+        {
+            /* Ditt importmap-innehåll här */
+        }
+    </script>
+
+
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+  
+    @await RenderSectionAsync("Styles", required: false)
+</head>
+<body>
+    <div class="back>Office-wrapper">
+        @await Html.PartialAsync("_SidebarPartial")
+        <main>
+            @await Html.PartialAsync("_HeaderPartial")
+    @RenderBody()
+    </main>
+    </div>
+
+   
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @* Per-vy-skript *@
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

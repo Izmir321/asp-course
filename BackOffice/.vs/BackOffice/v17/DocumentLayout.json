@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|c:\\users\\iz\\desktop\\asp.net\\fram\\backoffice\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|c:\\users\\iz\\desktop\\asp.net\\fram\\backoffice\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD161E46-EABE-4953-93B5-29B391449584}|Data\\Data.csproj|c:\\users\\iz\\desktop\\asp.net\\fram\\backoffice\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD161E46-EABE-4953-93B5-29B391449584}|Data\\Data.csproj|solutionrelative:data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|c:\\users\\iz\\desktop\\asp.net\\fram\\backoffice\\presentation\\views\\overview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\overview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD161E46-EABE-4953-93B5-29B391449584}|Data\\Data.csproj|c:\\users\\iz\\desktop\\asp.net\\fram\\backoffice\\data\\entities\\cliententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD161E46-EABE-4953-93B5-29B391449584}|Data\\Data.csproj|solutionrelative:data\\entities\\cliententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|c:\\users\\iz\\desktop\\asp.net\\fram\\backoffice\\presentation\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD161E46-EABE-4953-93B5-29B391449584}|Data\\Data.csproj|c:\\users\\iz\\desktop\\asp.net\\fram\\backoffice\\data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD161E46-EABE-4953-93B5-29B391449584}|Data\\Data.csproj|solutionrelative:data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD161E46-EABE-4953-93B5-29B391449584}|Data\\Data.csproj|c:\\users\\iz\\desktop\\asp.net\\fram\\backoffice\\data\\entities\\statusentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD161E46-EABE-4953-93B5-29B391449584}|Data\\Data.csproj|solutionrelative:data\\entities\\statusentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD161E46-EABE-4953-93B5-29B391449584}|Data\\Data.csproj|c:\\users\\iz\\desktop\\asp.net\\fram\\backoffice\\data\\entities\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD161E46-EABE-4953-93B5-29B391449584}|Data\\Data.csproj|solutionrelative:data\\entities\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|c:\\users\\iz\\desktop\\asp.net\\fram\\backoffice\\presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|c:\\users\\iz\\desktop\\asp.net\\fram\\backoffice\\presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|c:\\users\\iz\\desktop\\asp.net\\fram\\backoffice\\presentation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2E59508A-6B07-4AB0-94D9-EEC968FB1ADC}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectEntity.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Data\\Entities\\ProjectEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\ProjectEntity.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Data\\Entities\\ProjectEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\ProjectEntity.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:10:12.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T19:24:10.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CLientEntity.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Data\\Entities\\CLientEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\CLientEntity.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Data\\Entities\\CLientEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\CLientEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:04:20.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:00:15.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatusEntity.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Data\\Entities\\StatusEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\StatusEntity.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Data\\Entities\\StatusEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\StatusEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:59:39.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Data\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Data\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:30:44.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\Views\\Overview\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Overview\\Index.cshtml",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\Views\\Overview\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Overview\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T18:14:26.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OverviewController.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\Controllers\\OverviewController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\OverviewController.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\Controllers\\OverviewController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\OverviewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:13:53.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:14:55.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T17:13:28.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T17:13:00.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Presentation\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Presentation\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-12T17:12:23.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

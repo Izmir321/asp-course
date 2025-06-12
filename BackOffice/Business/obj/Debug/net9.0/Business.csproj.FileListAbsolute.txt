@@ -1,0 +1,16 @@
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\bin\Debug\net9.0\Business.dll
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\bin\Debug\net9.0\Data.dll
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\bin\Debug\net9.0\Data.pdb
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\obj\Debug\net9.0\Business.sourcelink.json
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\obj\Debug\net9.0\Business.dll
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Business\obj\Debug\net9.0\ref\Business.dll

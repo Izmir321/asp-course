@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Presentation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Presentation.ewjtt9c9qa.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Presentation.props",
+      "PackagePath": "build\\Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Presentation.props",
+      "PackagePath": "buildTransitive\\Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

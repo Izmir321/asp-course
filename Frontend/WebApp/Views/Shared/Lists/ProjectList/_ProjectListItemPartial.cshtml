@@ -1,0 +1,105 @@
+﻿@model Project
+
+
+<div class="project card" data-project-id="@Model.Id">
+    <div class="card-header">
+        <div class="project-image">
+            <img src="@Model.ProjectImage" alt="template project" />
+        </div>
+        <h6 class="project-name">@Model.ProjectName</h6>
+        <span class="client-name">@Model.ClienttName</span>
+        <div id="project-actions-container">
+            <button type="button" data-type="dropdown" data-target="#project-dropdown-@Model.Id" class="btn-action">
+                <i class="fa-solid fa-ellipsis"></i>
+            </button>
+            <div id="project-dropdown-@Model.Id"  class="dropdown">
+                <div class="dropdown-body">
+                    <nav class="dropdown-actions">
+                        <a class="dropdown-action" href="#">
+                            <i class="fa-solid fa-pen-to-square"></i>
+                            <span>Edit</span>
+                        </a>
+                        <a class="dropdown-action" href="#">
+                            <i class="fa-solid fa-user-plus"></i>
+                            <span>Add Member</span>
+                        </a>
+                    </nav>
+                    <div class="divider"></div>
+                    <a class="dropdown-action remove" href="@Url.Action("Delete", "Projects", Model.Id)">
+                        <i class="fa-solid fa-trash"></i>
+                        <span>Delete Project</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <p>@Html.Raw(Model.Description)</p>
+    </div>
+    <div class="card-footer">
+        <div class="badge badge">
+            <i class="fa-solid fa-clock"></i>
+            <span>1 week left</span>
+        </div>
+        <div class="members">
+            <div class="user-image">
+                <img src="images/users/Avatar.svg" alt="template project" />
+            </div>
+            <div class="user-image">
+                <img src="images/users/Avatar.svg" alt="template project" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Projektkort 2 -->
+<div class="project card">
+    <div class="card-header">
+        <div class="project-image">
+            <img src="images/project/project-template-purple.svg" alt="template project" />
+        </div>
+        <h6 class="project-name">App Launch</h6>
+        <span class="client-name">Spotify AB</span>
+        <div id="project-actions-container">
+            <button type="button" data-type="dropdown" data-target="#project-dropdown-2" class="btn-action">
+                <i class="fa-solid fa-ellipsis"></i>
+            </button>
+            <div id="project-dropdown-2" class="dropdown">
+                <div class="dropdown-body">
+                    <nav class="dropdown-actions">
+                        <a class="dropdown-action" href="#">
+                            <i class="fa-solid fa-pen-to-square"></i>
+                            <span>Edit</span>
+                        </a>
+                        <a class="dropdown-action" href="#">
+                            <i class="fa-solid fa-user-plus"></i>
+                            <span>Add Member</span>
+                        </a>
+                    </nav>
+                    <div class="divider"></div>
+                    <a class="dropdown-action remove" href="#">
+                        <i class="fa-solid fa-trash"></i>
+                        <span>Delete Project</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <p>Launch the new music app with premium features and subscriptions</p>
+    </div>
+    <div class="card-footer">
+        <div class="badge badge">
+            <i class="fa-solid fa-clock"></i>
+            <span>3 days left</span>
+        </div>
+        <div class="members">
+            <div class="user-image">
+                <img src="/images/users/Avatar.svg" alt="template project" />
+            </div>
+            <div class="user-image">
+                <img src="/images/users/Avatar.svg" alt="template project" />
+            </div>
+        </div>
+    </div>
+</div>

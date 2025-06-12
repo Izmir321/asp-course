@@ -1,0 +1,6 @@
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\wwwroot\css\site.css
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\wwwroot\favicon.ico
+C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\wwwroot\js\site.js
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js

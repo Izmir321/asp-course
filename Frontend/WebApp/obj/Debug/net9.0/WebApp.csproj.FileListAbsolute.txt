@@ -1,0 +1,8 @@
+C:\Users\iz\Desktop\asp.net\fram\Frontend\WebApp\obj\Debug\net9.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iz\Desktop\asp.net\fram\Frontend\WebApp\obj\Debug\net9.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\iz\Desktop\asp.net\fram\Frontend\WebApp\obj\Debug\net9.0\WebApp.AssemblyInfo.cs
+C:\Users\iz\Desktop\asp.net\fram\Frontend\WebApp\obj\Debug\net9.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\iz\Desktop\asp.net\fram\Frontend\WebApp\obj\Debug\net9.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iz\Desktop\asp.net\fram\Frontend\WebApp\obj\Debug\net9.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\iz\Desktop\asp.net\fram\Frontend\WebApp\obj\Debug\net9.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\iz\Desktop\asp.net\fram\Frontend\WebApp\obj\Debug\net9.0\WebApp.sourcelink.json
