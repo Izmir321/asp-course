@@ -2114,7 +2114,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "Data": "1.0.0"
+          "Data": "1.0.0",
+          "Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Business.dll": {}
@@ -2127,6 +2128,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "Domain": "1.0.0",
           "Microsoft.AspNetCore.Identity": "2.3.1",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6"
@@ -2136,6 +2138,16 @@
         },
         "runtime": {
           "bin/placeholder/Data.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
         }
       }
     }
@@ -5772,11 +5784,17 @@
       "type": "project",
       "path": "../Data/Data.csproj",
       "msbuildProject": "../Data/Data.csproj"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Business >= 1.0.0",
+      "Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.6"
     ]
   },
@@ -5815,6 +5833,9 @@
           "projectReferences": {
             "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Business\\Business.csproj": {
               "projectPath": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Business\\Business.csproj"
+            },
+            "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Domain\\Domain.csproj"
             }
           }
         }

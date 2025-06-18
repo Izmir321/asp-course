@@ -15,14 +15,10 @@ C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\Presen
 C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\Presentation.RazorAssemblyInfo.cache
 C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\Presentation.RazorAssemblyInfo.cs
 C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\Presentation.sourcelink.json
-C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\scopedcss\bundle\Presentation.styles.css
-C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\scopedcss\projectbundle\Presentation.bundle.scp.css
 C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\compressed\8y2rqx5iwd-5ipweew5fc.gz
 C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\compressed\k4drly8y1i-61n19gt1b8.gz
 C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\compressed\kppja0dgaw-3r8b2a0bt1.gz
-C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\compressed\4ve4swcchu-ewjtt9c9qa.gz
-C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\compressed\0xoxsodri7-ewjtt9c9qa.gz
 C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\iz\Desktop\asp.net\fram\BackOffice\Presentation\obj\Debug\net9.0\staticwebassets.build.endpoints.json

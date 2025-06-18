@@ -1,12 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Presentation.Controllers;
-
-public class OverviewController : Controller
+namespace Presentation.Controllers
 {
-    [Route("admin/overview")]
-    public IActionResult Index()
+    public class OverViewController : Controller
     {
-        return View();
+        [Route("admin/overview")]
+        public IActionResult Index()
+        {
+            return View();
+        }
     }
 }

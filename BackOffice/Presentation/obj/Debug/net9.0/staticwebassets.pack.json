@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Presentation.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Presentation.ewjtt9c9qa.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\iz\\Desktop\\asp.net\\fram\\BackOffice\\Presentation\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

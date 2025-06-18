@@ -1,10 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.ComponentModel.DataAnnotations;
 
-[Index(nameof(ClientName), IsUnique = true)]
+namespace Data.Entities;
 
-public class CLientEntity
+[Index(nameof(ClientName), IsUnique = true)]
+public class ClientEntity
 {
     [Key]
     public string Id { get; set; } = null!;
